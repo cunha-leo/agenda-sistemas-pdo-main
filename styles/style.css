@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+:root{   
+    --primary: rgb(57, 57, 57);
+    --secundary: rgb(28, 100, 145);
+    --tertiary: white;
+}
+
+label{
+    padding-bottom: 10px;
+}
+div.title-form{
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+i.icon-agenda{
+    font-size: 30px;
+    padding-bottom: 5px;
+}
+button{
+    float: right;
+}
